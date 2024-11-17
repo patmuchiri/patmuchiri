@@ -9,7 +9,6 @@
 ![License](https://img.shields.io/github/license/patmuchiri/patmuchiri?style=flat-square)
 ![Build Status](https://img.shields.io/github/workflow/status/patmuchiri/patmuchiri/CI?label=Build%20Status)
 ![Top Language](https://img.shields.io/github/languages/top/patmuchiri/patmuchiri?style=flat-square)
-![Code Climate](https://img.shields.io/codeclimate/maintainability/patmuchiri/patmuchiri?style=flat-square)
 
 <!-- Custom GitHub Stats -->
 ![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patmuchiri&show_icons=true&count_private=true&hide=prs&theme=radical)
