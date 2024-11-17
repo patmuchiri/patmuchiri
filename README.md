@@ -6,7 +6,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/patmuchiri/patmuchiri?style=social)  
 ![GitHub forks](https://img.shields.io/github/forks/patmuchiri/patmuchiri?style=social)  
 ![GitHub followers](https://img.shields.io/github/followers/patmuchiri?style=social)
-![Build Status](https://img.shields.io/github/workflow/status/patmuchiri/patmuchiri/CI?label=Build%20Status)
 ![Top Language](https://img.shields.io/github/languages/top/patmuchiri/patmuchiri?style=flat-square)
 
 <!-- Custom GitHub Stats -->
