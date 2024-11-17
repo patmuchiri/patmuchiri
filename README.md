@@ -8,6 +8,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/patmuchiri?style=social)
 ![Top Language](https://img.shields.io/github/languages/top/patmuchiri/patmuchiri?style=flat-square)
 
+## My Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patmuchiri&layout=compact)
+
 <!-- Custom GitHub Stats -->
 ![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patmuchiri&show_icons=true&count_private=true&hide=prs&theme=blue)
 
