@@ -3,16 +3,16 @@
 <!-- GitHub Stats -->
 ## 📊 My GitHub Stats
 
-![GitHub stars](https://img.shields.io/github/stars/patmuchiri/patmuchiri?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/patmuchiri/patmuchiri?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/patmuchiri/patmuchiri?style=social)
+![GitHub forks](https://img.shields.io/github/forks/patmuchiri/patmuchiri?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/patmuchiri?style=social)
 ![Top Language](https://img.shields.io/github/languages/top/patmuchiri/patmuchiri?style=flat-square)
 
 <!-- Custom GitHub Stats -->
-![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patmuchiri&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patmuchiri&show_icons=true&count_private=true&hide=prs&theme=blue)
 
 <!-- GitHub Contributions -->
-![Patmuchiri's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=patmuchiri&theme=radical)
+![Patmuchiri's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=patmuchiri&theme=blue)
 
 <p>I’m a passionate software engineer with expertise in front-end, back-end development, and DevOps. I love solving real-world problems through technology, improving system efficiency, enhancing security, and developing solutions that help businesses thrive.</p>
 
@@ -25,13 +25,13 @@
   <li><strong>Passions</strong>: Problem-solving, security, data handling, and performance optimization</li>
 </ul>
 
-<h2>🛠️ Technical Skills</h2>
+<h2>🛠️  Technical Skills</h2>
 
 <p>Here are the technologies I specialize in and am most passionate about:</p>
 
 <ul>
   <li><strong>Languages:</strong>
-    <span style="font-size: 18px;"> 
+    <span style="font-size: 18px;">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
@@ -96,39 +96,3 @@
   <li><a href="https://www.linkedin.com/in/patrickgichohi/" target="_blank">LinkedIn</a></li>
   <li><a href="https://www.youtube.com/@patrickmuchiri154" target="_blank">YouTube Channel</a></li>
 </ul>
-
-<h2>📚 Certifications & Qualifications</h2>
-<ul>
-  <li><strong>Bachelor of Science</strong> in <strong>Computer Information Systems</strong></li>
-  <li><strong>Senior Network Support Engineer</strong> with expertise in network troubleshooting, security, and infrastructure</li>
-  <li><strong>Currently pursuing</strong> Software Engineering at <strong>ALX/ Holberton School</strong> (Backend Engineer Specialization)</li>
-</ul>
-
-<h2>💼 Open to Opportunities</h2>
-<p>I am open to <strong>full-time employment</strong>, <strong>freelance projects</strong>, and <strong>open-source collaborations</strong>. If you’re interested in working together or have a project in mind, feel free to reach out!</p>
-
-<h2>📈 My Workflow</h2>
-<p>I believe in delivering quality software through automation, testing, and continuous integration. Here’s a quick overview of my approach:</p>
-<ul>
-  <li><strong>Code Quality</strong>: I focus on writing clean, readable, and maintainable code. I follow best practices such as code reviews, unit testing, and documentation.</li>
-  <li><strong>DevOps</strong>: I use Docker for containerization, Kubernetes for orchestration, and AWS for cloud services, enabling smooth and scalable deployments.</li>
-  <li><strong>Collaboration</strong>: I’m a strong advocate of using GitHub for version control, collaborating with teams, and contributing to open-source projects.</li>
-</ul>
-
-<h2>🌱 Continuous Learning</h2>
-<p>Technology is always evolving, and I’m passionate about staying up to date with the latest trends. Currently, I’m focused on:</p>
-<ul>
-  <li>Deepening my knowledge of backend development (APIs, microservices, databases)</li>
-  <li>Learning more about cloud platforms (AWS, GCP)</li>
-  <li>Enhancing my DevOps skills and adopting better automation practices</li>
-</ul>
-<p>If you have any tips or want to discuss the latest tech, feel free to get in touch!</p>
-
----
-
-<h3>Badges</h3>
-<p>
-
----
-
-
